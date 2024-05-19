@@ -39,7 +39,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "0.0,840.0"
+          "t": "0.0,14.0"
         }
       }
     },
@@ -70,7 +70,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1380.0,1680.0"
+          "t": "23.0,28.0"
         }
       }
     },
@@ -101,7 +101,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1740.0,1920.0"
+          "t": "28.0,32.0"
         }
       }
     },
@@ -132,7 +132,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2280.0,2519.0"
+          "t": "38.0,41.0"
         }
       }
     },
@@ -163,7 +163,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2580.0,2820.0"
+          "t": "43.0,47.0"
         }
       }
     },
@@ -194,7 +194,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3360.0,3540.0"
+          "t": "56.0,58.0"
         }
       }
     },
@@ -225,7 +225,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3900.0,4200.0"
+          "t": "64.0,70.0"
         }
       }
     },
@@ -256,7 +256,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "4800.0,5039.0"
+          "t": "80.0,83.0"
         }
       }
     },
@@ -287,7 +287,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "5460.0,6300.0"
+          "t": "90.0,105.0"
         }
       }
     },
@@ -318,7 +318,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "7080.0,8040.0"
+          "t": "118.0,134.0"
         }
       }
     },
@@ -349,7 +349,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8400.0,8940.0"
+          "t": "140.0,149.0"
         }
       }
     },
@@ -380,7 +380,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8940.0,9000.0"
+          "t": "149.0,150.0"
         }
       }
     },
@@ -411,7 +411,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9120.0,9180.0"
+          "t": "152.0,153.0"
         }
       }
     },
@@ -442,7 +442,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9240.0,9900.0"
+          "t": "154.0,165.0"
         }
       }
     },
@@ -456,7 +456,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Applied to Muslim women of Sierraleone descendance.",
+        "value": "Applied to Muslim women of Sierra Leone descendance.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -473,7 +473,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10079.0,10200.0"
+          "t": "167.0,170.0"
         }
       }
     },
@@ -504,7 +504,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10260.0,10680.0"
+          "t": "171.0,178.0"
         }
       }
     },
@@ -535,7 +535,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10920.0,10980.0"
+          "t": "181.0,182.0"
         }
       }
     },
@@ -566,7 +566,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "11100.0,11520.0"
+          "t": "185.0,192.0"
         }
       }
     }

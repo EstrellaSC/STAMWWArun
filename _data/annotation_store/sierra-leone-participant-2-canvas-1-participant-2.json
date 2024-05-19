@@ -31,7 +31,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "840.0,1380.0"
+          "t": "14.0,23.0"
         }
       }
     },
@@ -61,8 +61,8 @@
           ]
         },
         "selector": {
-          "type": "RangeSelector",
-          "t": "1680.0,1740.0"
+          "type": "PointSelector",
+          "t": "28.0"
         }
       }
     },
@@ -76,7 +76,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I am muslim by birth",
+        "value": "I am Muslim by birth",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -93,7 +93,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1980.0,2280.0"
+          "t": "33.0,38.0"
         }
       }
     },
@@ -124,7 +124,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2280.0,2519.0"
+          "t": "38.0,41.0"
         }
       }
     },
@@ -155,7 +155,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2880.0,3299.0"
+          "t": "48.0,54.0"
         }
       }
     },
@@ -186,7 +186,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3540.0,3659.0"
+          "t": "58.0,60.0"
         }
       }
     },
@@ -217,7 +217,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3720.0,3900.0"
+          "t": "62.0,64.0"
         }
       }
     },
@@ -231,7 +231,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I fast during the ramadan then after which,  idulfitri and i go the .. or ... maybe to the mosque to give thanks   and prays.",
+        "value": "I fast during the Ramadan then after which,  idulfitri and i go the .. or ... maybe to the mosque to give thanks   and prays.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -248,7 +248,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "4260.0,4800.0"
+          "t": "70.0,80.0"
         }
       }
     },
@@ -279,7 +279,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "5100.0,5460.0"
+          "t": "85.0,90.0"
         }
       }
     },
@@ -310,7 +310,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "6420.0,7020.0"
+          "t": "106.0,117.0"
         }
       }
     },
@@ -341,7 +341,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8040.0,8460.0"
+          "t": "134.0,141.0"
         }
       }
     },
@@ -372,7 +372,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "8940.0"
+          "t": "149.0"
         }
       }
     },
@@ -403,7 +403,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "9060.0"
+          "t": "151.0"
         }
       }
     },
@@ -434,7 +434,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "9180.0"
+          "t": "153.0"
         }
       }
     },
@@ -465,7 +465,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9900.0,10079.0"
+          "t": "165.0,167.0"
         }
       }
     },
@@ -496,7 +496,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "10200.0"
+          "t": "170.0"
         }
       }
     },
@@ -527,7 +527,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10740.0,10860.0"
+          "t": "179.0,181.0"
         }
       }
     },
@@ -541,7 +541,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "eheh *no",
+        "value": "Eheh *no",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -558,7 +558,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10980.0,11100.0"
+          "t": "182.0,185.0"
         }
       }
     }
