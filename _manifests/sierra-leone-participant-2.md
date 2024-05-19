@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: 'Sierra Leone: Participant 2'
+title: 'Sierra Leone: English+Krio. Participant 2'
 manifest_name: sierra-leone-participant-2
 
 ---
