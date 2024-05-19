@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-participant-2/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Sierra Leone, participant 2" ] },
+    "label": { "en": [ "Sierra Leone: Participant 2" ] },
     "items": [
       {
         "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-participant-2/canvas-1/canvas",
