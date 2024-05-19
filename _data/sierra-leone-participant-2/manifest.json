@@ -100,6 +100,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-participant-1.json",
+            "label": {
+              "none": ["Participant 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-02-29.json",
             "label": {
               "none": ["02.29"]
@@ -191,6 +199,14 @@
             "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-03-03.json",
             "label": {
               "none": ["03.03"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-participant-2.json",
+            "label": {
+              "none": ["Participant 2"]
             }
           }
           ,
