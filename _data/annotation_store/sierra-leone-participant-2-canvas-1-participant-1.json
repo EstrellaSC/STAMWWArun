@@ -21,7 +21,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "The sound of pages turning\nParticipant 1 is reading the questions very slowly\nParticipant 2 responds quickly to the questions, faster than Participant 1\nThe sound of music playing on the radio in the background\nMen on the background",
+          "value": "The sound of pages turning  Participant 1 is reading the questions very slowly  Participant 2 responds quickly to the questions, faster than Participant 1  The sound of music playing on the radio in the background  Men on the background",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -39,7 +39,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "0.0,840.0"
+          "t": "0.0,14.0"
         }
       }
     },
@@ -70,7 +70,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1380.0,1680.0"
+          "t": "23.0,28.0"
         }
       }
     },
@@ -101,7 +101,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1740.0,1920.0"
+          "t": "29.0,32.0"
         }
       }
     },
@@ -132,7 +132,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2280.0,2520.0"
+          "t": "38.0,42.0"
         }
       }
     },
@@ -146,7 +146,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Tell us a bit about you Muslim rituals  on a daily basis",
+        "value": "Tell us a bit about you Muslim rituals on a daily basis",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -163,7 +163,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2580.0,2820.0"
+          "t": "43.0,47.0"
         }
       }
     },
@@ -194,7 +194,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3360.0,3540.0"
+          "t": "56.0,59.0"
         }
       }
     },
@@ -225,7 +225,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3900.0,4200.0"
+          "t": "65.0,70.0"
         }
       }
     },
@@ -256,7 +256,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "4800.0,5040.0"
+          "t": "80.0,84.0"
         }
       }
     },
@@ -270,7 +270,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>Tell us about your Islamic education, did you go to any specific moqse  . matsara ... [<i>madrasa</i>] for islamic teaching? The first you said….  tell us about your Islamic education..Then did you go to any specific moqse  for Islamic teaching?</html>",
+        "value": "Tell us about your Islamic education, did you go to any specific moqse . matsara ... [madrasa] for islamic teaching? The first you said…. tell us about your Islamic education..Then did you go to any specific moqse for Islamic teaching?",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -287,7 +287,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "5460.0,6300.0"
+          "t": "91.0,105.0"
         }
       }
     },
@@ -318,7 +318,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "7080.0,8040.0"
+          "t": "118.0,134.0"
         }
       }
     },
@@ -332,7 +332,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Do you have any knowledge of Arabic? Have you ever traveled to… ",
+        "value": "Do you have any knowledge of Arabic? Have you ever traveled to…",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -349,7 +349,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8400.0,8940.0"
+          "t": "140.0,149.0"
         }
       }
     },
@@ -363,7 +363,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": " Arab countries? ",
+        "value": "Arab countries?",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -380,7 +380,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8940.0,9000.0"
+          "t": "149.0,150.0"
         }
       }
     },
@@ -394,7 +394,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "OK,  but you have knowledge of Arabic?",
+        "value": "OK, but you have knowledge of Arabic?",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -411,7 +411,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9120.0,9180.0"
+          "t": "152.0,153.0"
         }
       }
     },
@@ -425,7 +425,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "If you.. in your opinion, what problems do Muslim women in Sierra Leone face? ... applied to  women of  Sierra Leone descendance..",
+        "value": "If you.. in your opinion, what problems do Muslim women in Sierra Leone face? ... applied to women of Sierra Leone descendance..",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -442,7 +442,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9240.0,9900.0"
+          "t": "154.0,165.0"
         }
       }
     },
@@ -473,7 +473,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10080.0,10200.0"
+          "t": "168.0,170.0"
         }
       }
     },
@@ -504,7 +504,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10260.0,10680.0"
+          "t": "171.0,178.0"
         }
       }
     },
@@ -518,7 +518,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "OK, do you believe in..  easier or harder to be a Muslim woman in Sierra Leone?",
+        "value": "OK, do you believe in.. easier or harder to be a Muslim woman in Sierra Leone?",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -535,7 +535,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10920.0,10980.0"
+          "t": "182.0,183.0"
         }
       }
     },
@@ -566,7 +566,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "11100.0,11520.0"
+          "t": "185.0,192.0"
         }
       }
     }

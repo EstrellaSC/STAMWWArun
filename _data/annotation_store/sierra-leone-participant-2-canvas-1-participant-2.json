@@ -31,7 +31,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "840.0,1380.0"
+          "t": "14.0,23.0"
         }
       }
     },
@@ -62,7 +62,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1680.0,1740.0"
+          "t": "28.0,29.0"
         }
       }
     },
@@ -93,7 +93,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "1980.0,2280.0"
+          "t": "33.0,38.0"
         }
       }
     },
@@ -107,7 +107,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>A no understand .. a go make am...<i>inaudible</i>.</html>",
+        "value": "A no understand .. a go make am...inaudible.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -124,7 +124,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2280.0,2520.0"
+          "t": "38.0,42.0"
         }
       }
     },
@@ -155,7 +155,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "2880.0,3300.0"
+          "t": "48.0,55.0"
         }
       }
     },
@@ -186,7 +186,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3540.0,3660.0"
+          "t": "59.0,61.0"
         }
       }
     },
@@ -217,7 +217,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "3720.0,3900.0"
+          "t": "62.0,65.0"
         }
       }
     },
@@ -231,7 +231,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "I fast during the Ramadan then after which,  idulfitri and i go the .. or ... maybe to the mosque to give thanks   and prays.",
+        "value": "I fast during the Ramadan then after which, idulfitri and i go the .. or ... maybe to the mosque to give thanks and prays.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -248,7 +248,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "4260.0,4800.0"
+          "t": "71.0,80.0"
         }
       }
     },
@@ -262,7 +262,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>One …<i>inaudible</i> and then  ... ... no  to ......<i>inaudible</i> Saudi</html>",
+        "value": "One …inaudible and then ... ... no to ......inaudible Saudi",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -279,7 +279,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "5100.0,5460.0"
+          "t": "85.0,91.0"
         }
       }
     },
@@ -293,7 +293,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Well, I know  small about the Quran but for now I do not go to the mosque for any islamic teaching only on the Ramadan times..",
+        "value": "Well, I know small about the Quran but for now I do not go to the mosque for any islamic teaching only on the Ramadan times..",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -310,7 +310,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "6420.0,7020.0"
+          "t": "107.0,117.0"
         }
       }
     },
@@ -341,7 +341,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "8040.0,8460.0"
+          "t": "134.0,141.0"
         }
       }
     },
@@ -372,7 +372,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "8940.0"
+          "t": "149.0"
         }
       }
     },
@@ -403,7 +403,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "9060.0"
+          "t": "151.0"
         }
       }
     },
@@ -434,7 +434,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "9180.0"
+          "t": "153.0"
         }
       }
     },
@@ -448,7 +448,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Me, I  don't know that…",
+        "value": "Me, I don't know that…",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -465,7 +465,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "9900.0,10080.0"
+          "t": "165.0,168.0"
         }
       }
     },
@@ -496,7 +496,7 @@
         },
         "selector": {
           "type": "PointSelector",
-          "t": "10200.0"
+          "t": "170.0"
         }
       }
     },
@@ -527,7 +527,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10740.0,10860.0"
+          "t": "179.0,181.0"
         }
       }
     },
@@ -558,7 +558,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "10980.0,11100.0"
+          "t": "183.0,185.0"
         }
       }
     }
