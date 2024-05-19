@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-02-29.json",
-            "label": {
-              "none": ["02.29"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-participant-2-canvas-1-03-02.json",
             "label": {
               "none": ["03.02"]
