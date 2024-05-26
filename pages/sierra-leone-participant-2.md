@@ -1,8 +1,8 @@
 ---
 layout: item
-title: Sierra Leone, participant 2
-manifest_name: sierra-leone-participant-2
-permalink: sierra-leone-participant-2
+title: Sierra Leone: English+Krio. Participant 2
+manifest_name: Sierra Leone: English+Krio. Participant 2
+permalink: Sierra Leone: English+Krio. Participant 2
 external_manifest_url: 
 
 ---
