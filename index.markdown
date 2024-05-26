@@ -14,7 +14,6 @@ The STAMWWA audio files are stored on a personal drive and can be accessed in fu
 essamba@ucm.es
 
 Results and Data of ASTMMAO:
-
     27 participants
     24 audio recordings
     3 handwritten texts
