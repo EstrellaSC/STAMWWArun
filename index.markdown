@@ -11,7 +11,6 @@ Since 2022, I have assembled and collected the Sound-Text Archive of Muslim Wome
 
 ![TALAB AL ILM](https://github.com/EstrellaSC/STAMWWA/assets/24605835/1a770c96-cd6a-4805-a03e-5a3e181756e9)
 
-
 Facts:
 
 The STAMWWA has obtained the consent of the women who participated and completed the questionnaire. 
@@ -37,3 +36,4 @@ Results and Data of the STAMWWA:
 Image of STAMWWA Poster (Spanish version) 
 
 ![Image of STAMWWA Poster (Spanish version)](https://github.com/EstrellaSC/STAMWWA/assets/24605835/812c8e99-d34e-4c7f-b3be-c592c9a2f536)
+
