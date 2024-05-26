@@ -7,7 +7,8 @@ layout: home
 My research is centred on the intellectual history of Formative Islam, focusing on the concept of knowledge (ilm) as it emerged in the Arabic written tradition. 
 It seeks to understand premodern to trans-modern monotheistic epistemologies, examining the interplay between textual, oral and intermedial modes of knowledge transmission and technology. 
 
-Since 2022, I have assembled and collected the Sound-Textual Archive of Muslim Women in West Africa (STAMWWA). As the main researcher and investigator, this archive serves as a repository of voices, aiming to convey the audible visions and narratives of a group of Muslim women from West Africa (and its diaspora) on various current issues related to their beliefs and practical challenges. 
+Since 2022, I have assembled and collected the Sound-Textual Archive of Muslim Women in West Africa (STAMWWA). As the principal researcher and investigator, the STAMWWA serves as a repository of voices, conveying the auditory narratives of Muslim women across West Africa and its diaspora. Originating from a teaching module, a conference and a questionnaire sent through WhatsApp, this archive amalgamates audible accounts addressing contemporary issues surrounding faith and practice, while simultaneously promoting the use of African languages in responses.
+
 ![TALAB AL ILM](https://github.com/EstrellaSC/STAMWWA/assets/24605835/1a770c96-cd6a-4805-a03e-5a3e181756e9)
 
 
