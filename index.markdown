@@ -14,7 +14,7 @@ Since 2022, I have assembled and collected the Sound-Textual Archive of Muslim W
 
 Facts:
 
-The STAMWWA has obtained the express consent of the women who participated and completed the questionnaire. 
+The STAMWWA has obtained the consent of the women who participated and completed the questionnaire. 
 
 The STAMWWA is a multilingual, intermedial platform including audio and textual elements. 
 
