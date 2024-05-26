@@ -18,7 +18,7 @@ The STAMWWA has obtained the consent of the women who participated and completed
 
 The STAMWWA is a multilingual, intermedial platform including audio and textual elements. 
 
-The STAMWWA audio files are stored on a personal drive. Complete audios can listened to upon request by contacting: essamba@ucm.es
+The STAMWWA audio files are stored on a personal drive. Complete audios can be listened to upon request by contacting: essamba@ucm.es
 
 Results and Data of the STAMWWA:
 
