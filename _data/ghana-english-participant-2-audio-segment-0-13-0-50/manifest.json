@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://EstrellaSC.github.io/STAMWWA/ghana-english-participant-2-audio-segment-0-13-0-50/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Ghana: English Participant 2. Audio segment 0:13-0:50" ] },
+    "items": [
+      {
+        "id": "https://EstrellaSC.github.io/STAMWWA/ghana-english-participant-2-audio-segment-0-13-0-50/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 402.0,
+        "items": [
+          {
+            "id": "https://EstrellaSC.github.io/STAMWWA/ghana-english-participant-2-audio-segment-0-13-0-50/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://EstrellaSC.github.io/STAMWWA/ghana-english-participant-2-audio-segment-0-13-0-50/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://dynamicreadings.com/wp-content/uploads/2024/05/Ghana-Excerpt.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 402.0
+                },
+                "target": "https://EstrellaSC.github.io/STAMWWA/ghana-english-participant-2-audio-segment-0-13-0-50/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
