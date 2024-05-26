@@ -21,7 +21,7 @@
         },
         {
           "type": "TextualBody",
-          "value": "The sound of pages turning\n Participant 1 is reading the questions very slowly\n Participant 2 responds quickly to the questions, faster than Participant 1\n The sound of music playing on the radio in the background\n Men on the background",
+          "value": "The sound of pages turning\n Participant 1 is reading the questions very slowly\n Participant 2 responds quickly to the questions, faster than Participant 1",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -84,7 +84,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Or you did ...recover to Islam *convert to Muslim?",
+        "value": "<html>Or you did ...<i>recover</i> to Islam *convert to Muslim?</html>",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -268,12 +268,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "Tell us about your Islamic education, did you go to any specific moqse . matsara ... [madrasa] for islamic teaching? The first you said…. tell us about your Islamic education..Then did you go to any specific moqse for Islamic teaching?",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tell us about your Islamic education, did you go to any specific moqse . matsara ... [madrasa] for islamic teaching? The first you said…. tell us about your Islamic education..Then did you go to any specific moqse for Islamic teaching?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The sound of music playing on the radio in the background.Men on the background",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-participant-2/canvas-1/canvas",
@@ -487,7 +495,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Have you experience any some of the discriminatio of the basis of your religion ethnicity?",
+        "value": "Have you experience any some of the discrimination of the basis of your religion ethnicity?",
         "format": "text/plain",
         "purpose": "commenting"
       },
