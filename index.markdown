@@ -14,9 +14,9 @@ The STAMWWA audio files are stored on a personal drive and can be accessed in fu
 essamba@ucm.es
 
 Results and Data of ASTMMAO:
-    27 participants
-    24 audio recordings
-    3 handwritten texts
-    2 WhatsApp screenshots
-    5 countries: Sierra Leone, Guinea, Ghana, France, Spain (Gambia and Senegal still in progress)
-    5 languages: Fula, Krio, English, French, Spanish (Soninké and Wolof still in progress)
+27 participants
+24 audio recordings
+3 handwritten texts
+2 WhatsApp screenshots
+5 countries: Sierra Leone, Guinea, Ghana, France, Spain (Gambia and Senegal still in progress)
+5 languages: Fula, Krio, English, French, Spanish (Soninké and Wolof still in progress)
