@@ -18,7 +18,7 @@ The STAMWWA is a multilingual, intermedial platform including audio and textual 
 
 The STAMWWA audio files are stored on a personal drive. Complete audios can listened to upon request by contacting: essamba@ucm.es
 
-Results and Data of STAMWWA:
+Results and Data of the STAMWWA:
 
 27 participants
 
