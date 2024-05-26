@@ -1,0 +1,582 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1.json",
+  "type": "AnnotationPage",
+  "label": "Participant 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "….i de answer the question... OK, XY. The first question is.. if you wish you could you please state your full name age and ethnic group",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The sound of pages turning\n Participant 1 is reading the questions very slowly\n Participant 2 responds quickly to the questions, faster than Participant 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK then,.. are you a Muslim. OK, you said you were a Muslim from..",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "023,28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Or you did ...<i>recover</i> to Islam *convert to Muslim?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "029,32"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK.. what is this..",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "038,42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tell us a bit about you Muslim rituals on a daily basis",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "043,47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK do you usually go to the prayers by yourself?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "056,59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ok, so how do you celebrate Ramadan and Idulfitri?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "065,70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK have you performed Umrah or hajjaa?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "080,84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tell us about your Islamic education, did you go to any specific moqse . matsara ... [madrasa] for islamic teaching? The first you said…. tell us about your Islamic education..Then did you go to any specific moqse for Islamic teaching?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "The sound of music playing on the radio in the background.Men on the background",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "091,105"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So, what this teaching carried out in Krio, English or Arabic?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "118,134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Do you have any knowledge of Arabic? Have you ever traveled to…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140,149"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Arab countries?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149,150"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK, but you have knowledge of Arabic?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "152,153"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "If you.. in your opinion, what problems do Muslim women in Sierra Leone face? ... applied to women of Sierra Leone descendance..",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "154,165"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applied to Muslim women of Sierra Leone descendance.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168,170"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Have you experience any some of the discrimination of the basis of your religion ethnicity?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "171,178"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK, do you believe in.. easier or harder to be a Muslim woman in Sierra Leone?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "182,183"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "OK, ok, thank you very much... Really do appreciate.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "185,192"
+        }
+      }
+    }
+  ]
+}

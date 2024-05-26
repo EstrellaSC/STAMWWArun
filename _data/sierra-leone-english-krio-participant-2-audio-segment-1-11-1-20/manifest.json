@@ -8,6 +8,24 @@
         "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/canvas",
         "type": "Canvas",
         "duration": 192.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-1.json",
+            "label": {
+              "none": ["Participant 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20-canvas-1-participant-2.json",
+            "label": {
+              "none": ["Participant 2"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://EstrellaSC.github.io/STAMWWA/sierra-leone-english-krio-participant-2-audio-segment-1-11-1-20/canvas-1/paintings",
