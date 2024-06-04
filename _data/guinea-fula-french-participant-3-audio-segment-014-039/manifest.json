@@ -7,7 +7,7 @@
       {
         "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 055,
+        "duration": 025,
         "items": [
           {
             "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/paintings",
@@ -19,7 +19,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "http://dynamicreadings.com/wp-content/uploads/2023/08/AUDIO-2022-09-12-16-45-54_1.m4a",
-                    "duration": 055
+                    "duration": 025
                 },
                 "target": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/canvas"
               }
