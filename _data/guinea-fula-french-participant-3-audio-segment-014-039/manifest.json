@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-.json",
-            "label": {
-              "none": [""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-to-be-annotated.json",
             "label": {
               "none": ["to be annotated"]
