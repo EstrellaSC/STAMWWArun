@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-0.json",
+  "type": "AnnotationPage",
+  "label": "0",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-0-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Fula-French to be annotated",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "0",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,014"
+        }
+      }
+    }
+  ]
+}

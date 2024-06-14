@@ -17,6 +17,22 @@
               "none": [""]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-0.json",
+            "label": {
+              "none": ["0"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-014.json",
+            "label": {
+              "none": ["014"]
+            }
+          }
         ],
         "items": [
           {
