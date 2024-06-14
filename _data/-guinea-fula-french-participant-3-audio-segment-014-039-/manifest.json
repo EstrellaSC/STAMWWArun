@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://EstrellaSC.github.io/STAMWWA/-guinea-fula-french-participant-3-audio-segment-014-039-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ " Guinea: Fula+French. Participant 3. Audio segment: 014:039 " ] },
+    "items": [
+      {
+        "id": "https://EstrellaSC.github.io/STAMWWA/-guinea-fula-french-participant-3-audio-segment-014-039-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 039,
+        "items": [
+          {
+            "id": "https://EstrellaSC.github.io/STAMWWA/-guinea-fula-french-participant-3-audio-segment-014-039-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://EstrellaSC.github.io/STAMWWA/-guinea-fula-french-participant-3-audio-segment-014-039-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://dynamicreadings.com/guinea",
+                    "duration": 039
+                },
+                "target": "https://EstrellaSC.github.io/STAMWWA/-guinea-fula-french-participant-3-audio-segment-014-039-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
