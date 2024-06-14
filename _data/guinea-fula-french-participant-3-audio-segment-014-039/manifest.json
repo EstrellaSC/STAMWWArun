@@ -8,6 +8,16 @@
         "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/canvas",
         "type": "Canvas",
         "duration": 39,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://EstrellaSC.github.io/STAMWWA/annotations/guinea-fula-french-participant-3-audio-segment-014-039-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/paintings",
