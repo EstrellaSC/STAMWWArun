@@ -36,7 +36,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://dynamicreadings.com/guinea",
+                  "id": "http://dynamicreadings.com/wp-content/uploads/2024/06/guinea-3.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 39
                 },
                 "target": "https://EstrellaSC.github.io/STAMWWA/guinea-fula-french-participant-3-audio-segment-014-039/canvas-1/canvas"
